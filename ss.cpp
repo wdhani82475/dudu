@@ -1,3 +1,4 @@
+#完成了1/2
 #include<iostream>
 #include<memory>
  int main()
